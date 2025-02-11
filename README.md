@@ -4,7 +4,7 @@ PyDOS is a Python project similar to MS-DOS, allowing file creation, installatio
 
 ## COMMAND
 - `dir`: Show the Dictionary
-- ` cd`: Enter the Dictionary
+- `cd`: Enter the Dictionary
 - `help`: Show Help
 - `rd`: Delete the File and Dictionary
 - `xcopy`: Copy Files and Dictionary
@@ -23,6 +23,9 @@ PyDOS is a Python project similar to MS-DOS, allowing file creation, installatio
 - `pyrun`: Run a PYTHON file
 - `backup`: Backup the entire file
 - `restore`: Restore the entire file
+- `bootinf`: Information of boot
+- `ver`: Pydos VERSION
+- `echo`: print a message
 - `exit`: Exit PyDOS
 ## installation
 - **Step 1**: First, open the Termux application.
