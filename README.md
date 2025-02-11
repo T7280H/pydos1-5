@@ -37,7 +37,7 @@ pkg install git
 ```
 - **Step 4**: Download Pydos from Github
 ```bash
-git clone <yourlink>
+git clone https://github.com/T7280H/pydos1-5
 ```
 - **Step 5**: Enter the Setup folder
 ```bash
