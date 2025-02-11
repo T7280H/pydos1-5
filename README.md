@@ -4,7 +4,7 @@ PyDOS is a Python project similar to MS-DOS, allowing file creation, installatio
 
 ## COMMAND
 - `dir`: Show the Dictionary
--` cd`: Enter the Dictionary
+- ` cd`: Enter the Dictionary
 - `help`: Show Help
 - `rd`: Delete the File and Dictionary
 - `xcopy`: Copy Files and Dictionary
